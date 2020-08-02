@@ -6,4 +6,4 @@
 <a href="https://stackoverflow.com/users/5671364/ganesh-kathiresan"><img alt="StackOverflow" src="https://img.shields.io/badge/Stack%20Overflow-Ganesh-orange?style=flat-square&logo=stack-overflow"></a>
 </p>
 
-Hi, I am a software development engineer at Citrix R&D and part of NetScaler's Web Application Firewall team.
+Hi, I am a software development engineer at Citrix R&D and part of NetScaler's Web Application Firewall team. My interests include: Network, Network Security, Kubernetes, Algorithms, Data Structures and Machine Learning
